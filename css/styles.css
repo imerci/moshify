@@ -1,4 +1,12 @@
-/* color: f0c888 */
-body {
-    background-color: gold;
+:root {
+    --color-primary: #2584ff;
+    --color-secondary: #00d9ff;
+    --color-accent: #ff3400;
+    --color-heading: #1b0760; 
+    --color-body: #918ca4;     /* 这是一种非常浅的灰色,帯有蓝色或紫色的阴影 */
+
+
+
+
+
 }
